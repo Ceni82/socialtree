@@ -87,5 +87,12 @@ button a {
     font-size: 26px;
 }
 
+@media (max-width: 570px){
+    section #avatar {
+        margin-top:20px;
+    }
+      
+}
+
   /*
   font-family: 'Poppins', sans-serif;
